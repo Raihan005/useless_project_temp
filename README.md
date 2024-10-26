@@ -65,6 +65,11 @@ For Software:
 For Hardware:
 @@ -87,9 +92,9 @@ For Hardware:
 [Add any extra demo materials/links]
+# Project Demo
+
+
+[https://github.com/user-attachments/assets/8133d212-ebea-41fc-ae02-e7f26d52bace]
+
 
 ## Team Contributions
 - Anu Thomson:Frontend
