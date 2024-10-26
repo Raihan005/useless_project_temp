@@ -67,9 +67,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Anu Thomson]: [Frontend]
+- Anu Thomson:Frontend
 - [Aleena C K]: [ Data gathering for personalities, JSON data setup]
-- [Raihan Rasheed]: [Backend]
+- Raihan Rasheed: Backend
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
