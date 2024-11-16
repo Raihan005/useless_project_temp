@@ -2,6 +2,9 @@
 
 # [NotYoTherapist] 🎯
 
+## Hosted Link is given below ⬇
+https://uselessprojectdemo.streamlit.app/
+
 
 ## Basic Details
 ### Team Name: [Demure]
